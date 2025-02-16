@@ -9,7 +9,7 @@
 }
 
 body {
-    background: #f4f4f4;
+    background: red;
     display: flex;
     justify-content: center;
     margin-top: 50px;
